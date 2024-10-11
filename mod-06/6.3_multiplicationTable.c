@@ -1,3 +1,6 @@
+// https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F
+
+
 #include <stdio.h>
 int main()
 {
@@ -5,9 +8,9 @@ int main()
     int x;
     scanf("%d", &x);
 
-    for (int i = 1; i <= 10; i++)
+    for (int i = 1; i <= 12; i++)
     {
-        printf("%d X %d = %d\n", i, x, i * x);
+        printf("%d * %d = %d\n", x, i, i * x);
     }
 
     return 0;
