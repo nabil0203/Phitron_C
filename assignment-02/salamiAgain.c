@@ -1,5 +1,5 @@
 /*
-his year Abdul is giving his cousins salami.
+This year Abdul is giving his cousins salami.
 
 But one of his cousin has came to him and complained that he gave everyone different amounts of salami, so some got more and some got less.
 
@@ -7,23 +7,21 @@ So Abdul decided he will give everyone equal salami. He told his cousins to find
 
 You need to print N integers in a line, for each salami amount, the difference of it from the maximum amount.
 
-Input Format
-
+Input Format:
 The first line of input will contain an integer N.
 The second line of input will contain N integers.
-Constraints
 
-1 <= N <= 100000
+Constraints 1 <= N <= 100000
 Each salami amount will be positive and less than 10^9
-Output Format
 
+Output Format:
 Print N space separated integers, i_th of which will be the difference of the maximum amount and i_th cousin's salami amount.
-Sample Input 0
 
+Sample Input 1:
 5
 5 2 8 3 4
-Sample Output 0
 
+Sample Output 1:
 3 6 0 5 4
 
 */

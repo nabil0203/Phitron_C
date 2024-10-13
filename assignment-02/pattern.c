@@ -1,8 +1,6 @@
 /*
-
 In this problem you will be given an integer N and you will have to print a pattern with N numbers.
-
-for example if N = 4, the pattern will be.
+For example if N = 4, the pattern will be.
 1
 12
 123
@@ -12,25 +10,24 @@ for example if N = 4, the pattern will be.
    1
 See input samples for better understanding.
 
-Input Format
-The input will contain a single integer N.
-Constraints 1 <= N <= 9
+------>Input Format:
+The input will contain a single integer N. Constraints 1 <= N <= 9
 
-Output Format
+------>Output Format:
 Print a pattern with N numbers according to the description.
 
-Sample Input 1
+Sample Input 1:
 3
-Sample Output 1
+Sample Output 1:
 1
 12
 123
  12
   1
 
-Sample Input 2
+Sample Input 2:
 5
-Sample Output 2
+Sample Output 2:
 1
 12
 123
