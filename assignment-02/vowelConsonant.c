@@ -11,6 +11,7 @@ C will be a letter between a to z (inclusive).
 ------>Output Format:
 Print "Vowel" if C is a vowel and "Consonant" otherwise.
 
+
 Sample Input 1:
 a
 Sample Output 1:

@@ -16,6 +16,7 @@ The input will contain a single integer N. Constraints 1 <= N <= 9
 ------>Output Format:
 Print a pattern with N numbers according to the description.
 
+
 Sample Input 1:
 3
 Sample Output 1:

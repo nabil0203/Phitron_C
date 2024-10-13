@@ -13,7 +13,6 @@ The third line will contain a single integer X.
 Constraints 1 <= N, X <= 100000
 Each N numbers will be either 0 or 1.
 
-
 ------>Output Format:
 Print the array after updating.
 
