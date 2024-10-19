@@ -24,13 +24,14 @@ int main()
 
     printf("\nAfter deleting %d index\n", index);
 
+    // check notebook A-45
     for (int i = index + 1; i < length; i++)
     {
         a[i - 1] = a[i];
     }
 
     length--;
-    
+
     for (int i = 0; i < length; i++)
     {
         printf("%d ", a[i]);
