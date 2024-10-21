@@ -4,7 +4,7 @@
 #include <stdio.h>
 int main()
 
-{ // for single digit numbers
+{   // this is for single digit numbers
     // char s[5] = "0";
     // printf("%d", s[0]-'0');
 
