@@ -1,11 +1,10 @@
-#include<stdio.h>
-int main(){ 
+#include <stdio.h>
+int main()
+{
 
+    printf("I \"eat\" rice\n");              // to print quotation
 
-    printf("I \"eat\" rice");
-
-    printf("I am run\ning");
-
+    printf("I am run\\ning");                // to print \n
 
     return 0;
 }
