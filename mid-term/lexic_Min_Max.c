@@ -14,7 +14,7 @@ int main()
     {
         printf("%s\n", s1);
     }
-    else if (strcmp(s2, s3) <= 0 && strcmp(s2, s3) <= 0)
+    else if (strcmp(s2, s3) <= 0 && strcmp(s2, s1) <= 0)
     {
         printf("%s\n", s2);
     }
@@ -29,7 +29,7 @@ int main()
     {
         printf("%s", s1);
     }
-    else if (strcmp(s2, s3) >= 0 && strcmp(s2, s3) >= 0)
+    else if (strcmp(s2, s3) >= 0 && strcmp(s2, s1) >= 0)
     {
         printf("%s", s2);
     }
