@@ -1,7 +1,6 @@
 // https://www.hackerrank.com/contests/mid-term-1729629486/challenges/lexic-min-max
 
-// 
-
+// digit min max concept has been used
 
 #include <stdio.h>
 #include <string.h>
