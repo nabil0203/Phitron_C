@@ -1,5 +1,7 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I
 
+// not solved
+
 #include <stdio.h>
 int main()
 {
