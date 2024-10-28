@@ -1,10 +1,10 @@
 /*
-    5 0 0      ||    11  0   0     ||     3 0 0      ||    3 5 0      ||    4 0 1
-    0 5 0      ||     0  11  0     ||     0 4 0      ||    0 3 1      ||    0 5 0
-    0 0 5      ||     0  0  11     ||     0 0 4      ||    3 0 3      ||    3 3 6
+    5 0 0      ||    11  0   0     ||     3 0 0      ||     2 0 0     ||    3 5 0      ||    4 0 1
+    0 5 0      ||     0  11  0     ||     0 4 0      ||     0 0 0     ||    0 3 1      ||    0 5 0
+    0 0 5      ||     0  0  11     ||     0 0 4      ||     0 0 9     ||    3 0 3      ||    3 3 6
 
-    square     ||     square       ||     square     ||    square     ||    square
-    diagonal   ||    diagonal      ||    diagonal    ||               ||
+    square     ||     square       ||     square     ||    square     ||    square     ||    square
+    diagonal   ||    diagonal      ||    diagonal    ||    diagonal   ||
     scaler     ||     scaler       ||                ||               ||
 
 
