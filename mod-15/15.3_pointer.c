@@ -8,7 +8,7 @@ int main()
 
         printf("%d\n", a);
 
-        *b = 6; // changing the value that was stored in 'b' pointer (using pointer to change value)
+        *b = 6;                     // changing the value that was stored in 'b' pointer (using pointer to change value)
 
         printf("%d", a);
 
