@@ -5,7 +5,7 @@ void func(int x)
 
     x = x * 10;
 
-    printf("User Defined function: %d\n", x);                          // value updates
+    printf("User Defined function: %d\n", x);                          // value updates only in user defined
 }
 
 int main()
