@@ -4,22 +4,22 @@
 int main()
 {
 
-    int t, j;
-    scanf("%d", &t);
+    long long int t, j;
+    scanf("%lld", &t);
 
-    for (int i = 0; i < t; i++) // for each array
+    for (int i = 0; i < t; i++)                     // for each array
     {
-        long long a[4];
+        long long int a[4];
 
         for (j = 0; j < 4; j++)
         {
-            scanf("%lld", &a[j]); // each array input
+            scanf("%lld", &a[j]);               // each array input
         }
 
         long long int mul = 1;
         for (int j = 1; j < 4; j++)
         {
-            mul = mul * a[j]; // mul of last 3 element
+            mul = mul * a[j];                   // mul of last 3 element
         }
 
         if (a[0] % mul != 0)
@@ -28,7 +28,7 @@ int main()
         }
 
         else
-            printf("%d \n", a[0] / mul);
+            printf("%lld \n", a[0] / mul);
     }
 
     return 0;
