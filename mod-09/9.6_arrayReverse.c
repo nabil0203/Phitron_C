@@ -24,3 +24,6 @@ int main()
 
     return 0;
 }
+
+// here reverse doesn't inplements; we just printed reversely
+// check https://github.com/nabil0203/Phitron_Cpp/blob/main/week01-practice-01/F_Reversing.cpp
